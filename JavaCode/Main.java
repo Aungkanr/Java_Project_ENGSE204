@@ -6,8 +6,6 @@ public class Main {
     public static void main(String[] args) {
         
         //code
-        System.out.println("hot fix test");
-        System.out.println("hot fix test2");
         //code
         
     }

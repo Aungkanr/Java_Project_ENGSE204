@@ -7,6 +7,7 @@ public class Main {
         
         //code
         System.out.println("hot fix test");
+        System.out.println("hot fix test2");
         //code
         
     }

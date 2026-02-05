@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Add Hotfix");
         //code
         //code
-        
+        Display D1 = new Display();
+        System.out.println("aungkanr");
+
     }
 }
